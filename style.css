@@ -1,0 +1,23 @@
+html{background-color: aqua;}
+.box1{margin: 22px;
+    padding: 22;
+    border-color: red;
+    background-color: aquamarine;}
+    .box2{margin:20px;
+    padding: 20;
+    border-color: red;
+    background-color: aquamarine;}
+    .box3{margin: 18px;
+    padding: 18;
+    border-color: red;
+    background-color: aquamarine;}
+    .box4{margin: 16px;
+    padding: 16;
+    border-color: red;
+    background-color: aquamarine;}
+h2{color:red}
+h3{color:red;}
+p{color:red;}
+a{color:red;}
+ol{color:red;}
+body{color: red;}
